@@ -1,9 +1,9 @@
 Graph Auto-Encoders
 ============
 
-This is a TensorFlow implementation of the (Variational) Graph Auto-Encoder model as described in our paper:
+This is a TensorFlow implementation of the (Variational) Graph Auto-Encoder model as described in paper [Variational Graph Auto-Encoders](https://arxiv.org/abs/1611.07308),T. N. Kipf, M. Welling,  NIPS Workshop on Bayesian Deep Learning (2016).
  
-T. N. Kipf, M. Welling, [Variational Graph Auto-Encoders](https://arxiv.org/abs/1611.07308), NIPS Workshop on Bayesian Deep Learning (2016)
+
 
 Graph Auto-Encoders (GAEs) are end-to-end trainable neural network models for unsupervised learning, clustering and link prediction on graphs. 
 
@@ -67,15 +67,4 @@ You can choose between the following models:
 * `gcn_ae`: Graph Auto-Encoder (with GCN encoder)
 * `gcn_vae`: Variational Graph Auto-Encoder (with GCN encoder)
 
-## Cite
 
-Please cite our paper if you use this code in your own work:
-
-```
-@article{kipf2016variational,
-  title={Variational Graph Auto-Encoders},
-  author={Kipf, Thomas N and Welling, Max},
-  journal={NIPS Workshop on Bayesian Deep Learning},
-  year={2016}
-}
-```
