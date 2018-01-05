@@ -1,7 +1,7 @@
 Graph Auto-Encoders
 ============
 
-This is a TensorFlow implementation of the (Variational) Graph Auto-Encoder model as described in paper [Variational Graph Auto-Encoders](https://arxiv.org/abs/1611.07308),T. N. Kipf, M. Welling,  NIPS Workshop on Bayesian Deep Learning (2016).
+This is a TensorFlow implementation of the (Variational) Graph Auto-Encoder model as described in paper [Variational Graph Auto-Encoders](https://arxiv.org/abs/1611.07308), T. N. Kipf, M. Welling,  NIPS Workshop on Bayesian Deep Learning (2016).
  
 
 
